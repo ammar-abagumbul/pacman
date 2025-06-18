@@ -1,4 +1,6 @@
-# Pacman Game
+# Pacman Terminal Game
+
+![Pacman](https://github.com/ammar-abagumbul/pacman/blob/765b0144c78f2459d957e10c075cd8ee6fb13b1d/pacman_screenshot.png)
 
 A classic Pacman replica developed in C++ using the ncurses library for terminal-based gameplay.
 
